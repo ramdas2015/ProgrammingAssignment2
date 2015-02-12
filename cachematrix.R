@@ -61,7 +61,7 @@ cacheSolve <- function(y, ...) {
   inv
 } 
 #Test Runs...
-#a <- makeCacheMatrix( matrix(c(1,2,12,13), nrow = 2, ncol = 2) );
+#a <- makeCacheMatrix( matrix(c(1,3,11,15), nrow = 2, ncol = 2) );
 #summary(a);
 #a$getMatrix();
 #cacheSolve(a);
